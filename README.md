@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bozoslav
+- 👀 I’m interested in competitive programming, optimization problems, software engineering
+- 🌱 I’m currently making silly projects 
+- 📫 How to reach me discord: mamke.
+- ⚡ Languages I love the most are c++ and python.
