@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @bozoslav
-- 👀 I’m interested in competitive programming, optimization problems, software engineering
-- 🌱 I’m currently making silly projects
-- 🌊 I'm currently a student at FER
-- ⚡ Languages I love the most are c++ and python
-- 📫 How to reach me discord: mamke.
+# Leon Mamić
+
+Undergraduate Computing Student @ FER, University of Zagreb.
+Interested in algorithmic optimization, low-latency software architecture, and competitive programming.
