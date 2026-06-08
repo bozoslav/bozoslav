@@ -1,2 +1,8 @@
 Undergraduate Computing Student @ FER, University of Zagreb.
-Interested in algorithmic optimization, low-latency software architecture, and competitive programming.
+
+Focusing on algorithmic optimization and low-latency systems engineering.
+
+* **Stack** — Modern C++, Python, C, CMake
+* **Focus** — Cache-locality, lock-free concurrency, custom memory allocation, performance profiling
+
+---
